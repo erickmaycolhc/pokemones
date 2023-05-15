@@ -1,13 +1,11 @@
-import { createTheme} from '@nextui-org/react'
+import { createTheme } from "@nextui-org/react";
 
 export const darkTheme = createTheme({
-   type: 'dark',
-   theme: {
-    
-   }
+  type: "dark",
+  theme: {},
 });
 
-//tema blanco 
+//tema blanco
 
 // import { createTheme } from '@nextui-org/react';
 
